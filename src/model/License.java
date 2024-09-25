@@ -12,6 +12,7 @@ public class License {
         this.softwareName = softwareName;
         this.licenseType = licenseType;
         this.userId = userId;
+
     }
 
     public int getUserId() {
