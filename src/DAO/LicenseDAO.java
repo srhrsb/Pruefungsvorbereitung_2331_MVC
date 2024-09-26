@@ -1,3 +1,5 @@
+package DAO;
+
 import model.License;
 import model.LicenseType;
 import model.User;
